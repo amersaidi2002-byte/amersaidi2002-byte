@@ -1,18 +1,33 @@
 # Amer Saidi
 
 ### Machine Learning & Computer Vision Engineer
-**Signal Processing · Embedded AI · Python & C++**
+**Deep Learning · Signal Processing · NLP & LLMs · Embedded AI**
 
-Engineering graduate from **ENSEIRB-MATMECA, Bordeaux INP**, specializing in
-signal and image processing. My interests span applied machine learning,
-computer vision and efficient inference on embedded systems.
+I build machine learning systems for images, signals and language, from data
+preparation and model training to evaluation, optimization and deployment.
 
-My experience includes real-time perception at **Kitware** and a
-**RISC-V implementation on FPGA at LP2I Bordeaux**. I am also exploring NLP and
-LLM fine-tuning alongside my work in vision and signal processing.
+My skills cover **computer vision, signal and image processing, NLP and LLM
+fine-tuning**, with **Python, C++ and PyTorch**. I combine mathematical modeling
+and numerical optimization with practical software engineering to develop
+reproducible ML pipelines and efficient inference applications.
 
-**Open to junior engineering opportunities in France**, especially in applied ML,
-computer vision, signal processing and embedded AI.
+I work across **model development and embedded deployment**, including ONNX
+inference, ROS 2 perception pipelines and hardware implementation with FPGA
+and RISC-V.
+
+**Open to engineering opportunities in France** in applied machine learning,
+computer vision, signal processing, NLP and embedded AI.
+
+## Skills
+
+| Area | Skills & technologies |
+|---|---|
+| Machine learning & deep learning | Supervised and unsupervised learning, neural networks, model training and evaluation, PyTorch, scikit-learn |
+| Computer vision | Image classification, object detection, anomaly detection, image preprocessing, OpenCV |
+| Signal & image processing | Spectral analysis, hyperspectral unmixing, matrix factorization, constrained optimization, NumPy, SciPy |
+| NLP & LLMs | Sequence modeling, RNNs, GRUs, Transformers, Hugging Face, language model fine-tuning, SFT, DPO |
+| Inference & deployment | Python, C++, ONNX Runtime, ROS 2, GStreamer, Docker, Linux |
+| Embedded systems & hardware | C, Raspberry Pi, FPGA, VHDL, RISC-V |
 
 ## Selected projects
 
@@ -56,19 +71,3 @@ digit classifiers targeting Raspberry Pi.
 
 [View the project](https://github.com/amersaidi2002-byte/projet_mnist)
 · [Read the report](https://github.com/amersaidi2002-byte/projet_mnist/blob/main/CR_IA_embarque.pdf)
-
-## Technical toolkit
-
-| Area | Technologies |
-|---|---|
-| Machine learning & scientific computing | Python, PyTorch, NumPy, SciPy, scikit-learn |
-| Computer vision & signal processing | OpenCV, image processing, hyperspectral analysis, constrained optimization |
-| Perception & deployment | C++, ROS 2, GStreamer, ONNX Runtime, Docker, Linux |
-| Embedded systems | C, Raspberry Pi, FPGA, VHDL, RISC-V |
-
-## Background
-
-- **ENSEIRB-MATMECA:** electronics engineering, signal and image processing.
-- **Kitware:** real-time object detection and ROS 2/GStreamer perception pipelines.
-- **LP2I Bordeaux:** RISC-V on FPGA and embedded machine learning.
-
