@@ -1,21 +1,20 @@
 ![Amer Saidi · Machine Learning Engineer](assets/profile-banner.svg)
 
-**Computer Vision · Signal Processing · LLMs**
+**Applied machine learning · Computer vision · Signal processing · LLMs**
 
-I develop machine learning models for images, signals and text. My work covers dataset preparation, model training, quantitative evaluation and inference in Python and C++.
+I’m a machine learning engineer trained in signal and image processing at ENSEIRB-MATMECA (Bordeaux INP). My projects begin with questions I can test. Can a model detect a defect from normal examples alone? Can simulated lenses help a model propose a better optical design? I turn those questions into datasets, experiments and software that others can run.
 
-### Project portfolio
+### Selected projects
 
-[Visual Defect Inspection](https://github.com/amersaidi2002-byte/visual-defect-inspection) · [Hyperspectral Unmixing](https://github.com/amersaidi2002-byte/hyperspectral-unmixing) · [Optical Design Agent](https://github.com/amersaidi2002-byte/optical-design-agent)  
-[Tool Localization](https://github.com/amersaidi2002-byte/occlusion-aware-tool-localization) · [Simulation & ML Platform](https://github.com/amersaidi2002-byte/reproducible-simulation-ml-platform) · [Robotic ML Evaluation](https://github.com/amersaidi2002-byte/robotic-ml-evaluation-harness)
+**Visual perception.** My inspection project compares anomaly detection methods on MVTec AD. I also train segmentation and keypoint models and test how occlusion affects their predictions.  
+[Visual Defect Inspection](https://github.com/amersaidi2002-byte/visual-defect-inspection) · [Occlusion-Aware Tool Localization](https://github.com/amersaidi2002-byte/occlusion-aware-tool-localization)
 
-### What I can do
+**Signals, optics and simulation.** I use constrained optimization to recover material spectra and fractions from hyperspectral images. For optical design, I use ray tracing to evaluate and refine proposals from a PyTorch model trained on simulated designs.  
+[Hyperspectral Unmixing](https://github.com/amersaidi2002-byte/hyperspectral-unmixing) · [Optical Design Agent](https://github.com/amersaidi2002-byte/optical-design-agent)
 
-- **Train and evaluate models.** Prepare datasets, split related samples by family, train PyTorch models, and compare them with baselines. Report metrics and inspect failure cases.
-- **Build computer vision pipelines.** Implement industrial anomaly detection, segmentation and keypoint localization. Measure image and pixel performance on MVTec AD and test robustness to occlusion on synthetic scenes.
-- **Process signals and model physical systems.** Estimate material spectra and fractions with constrained optimization and nonnegative matrix factorization. Generate simulated data for optical design and train surrogate models for vibration response.
-- **Run inference in Python and C++.** Export models to ONNX, check numerical agreement across runtimes, measure CPU latency and package inference in a tested Docker API.
-- **Adapt language models.** Experiment with Transformers and Hugging Face for supervised fine-tuning (SFT), reward modeling and preference optimization (DPO, GRPO).
+**Reproducible ML and inference.** I track simulation data and model versions, then test how models behave when they move from PyTorch to ONNX. The projects include Python and C++ parity checks, CPU latency measurements and a Docker API.  
+[Reproducible Simulation & ML Platform](https://github.com/amersaidi2002-byte/reproducible-simulation-ml-platform) · [Robotic ML Evaluation Harness](https://github.com/amersaidi2002-byte/robotic-ml-evaluation-harness)
 
-**Engineering degree in Signal & Image Processing** · ENSEIRB-MATMECA, Bordeaux INP  
-**Paris, France** · Open to ML engineering roles in Europe, the United States, Morocco and the Middle East.
+### Language models
+
+I work with Transformers and Hugging Face to explore how language model behavior changes with fine-tuning and feedback. My experiments cover supervised fine-tuning (SFT), reward modeling and preference optimization (DPO and GRPO).
