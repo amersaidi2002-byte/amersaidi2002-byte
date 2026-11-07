@@ -1,20 +1,21 @@
-# Amer Saidi
+![Amer Saidi · Machine Learning Engineer](assets/profile-banner.svg)
 
-**Machine Learning Engineer · Computer Vision · Signal Processing · LLMs**
+**Computer Vision · Signal Processing · LLMs**
 
-## Selected projects
+I develop machine learning models for images, signals and text. My work covers dataset preparation, model training, quantitative evaluation and inference in Python and C++.
 
-- [Visual Defect Inspection](https://github.com/amersaidi2002-byte/visual-defect-inspection) — Industrial anomaly detection with PatchCore and a convolutional autoencoder on MVTec AD.
-- [Hyperspectral Unmixing](https://github.com/amersaidi2002-byte/hyperspectral-unmixing) — Estimate material spectra and fractions with constrained optimization. Includes 112 measured fits.
-- [Optical Design Agent](https://github.com/amersaidi2002-byte/optical-design-agent) — Conditional lens generation and sequential ray tracing. Includes 10,000 simulated designs.
-- [Occlusion-Aware Tool Localization](https://github.com/amersaidi2002-byte/occlusion-aware-tool-localization) — PyTorch segmentation and keypoint detection on synthetic images, with ONNX export.
-- [Reproducible Simulation & ML Platform](https://github.com/amersaidi2002-byte/reproducible-simulation-ml-platform) — Versioned simulation data, PyTorch training and Docker/C++ inference. 26 tests.
-- [Robotic ML Evaluation Harness](https://github.com/amersaidi2002-byte/robotic-ml-evaluation-harness) — ONNX numerical agreement between Python and C++, CPU latency and frame-order checks.
+### Project portfolio
 
-## Technical focus
+[Visual Defect Inspection](https://github.com/amersaidi2002-byte/visual-defect-inspection) · [Hyperspectral Unmixing](https://github.com/amersaidi2002-byte/hyperspectral-unmixing) · [Optical Design Agent](https://github.com/amersaidi2002-byte/optical-design-agent)  
+[Tool Localization](https://github.com/amersaidi2002-byte/occlusion-aware-tool-localization) · [Simulation & ML Platform](https://github.com/amersaidi2002-byte/reproducible-simulation-ml-platform) · [Robotic ML Evaluation](https://github.com/amersaidi2002-byte/robotic-ml-evaluation-harness)
 
-- **LLMs & NLP** · Transformers, supervised fine-tuning (SFT), reward modeling, and preference optimization (DPO, GRPO).
-- **Vision & signals** · Object detection, segmentation, spectral unmixing, and numerical optimization.
-- **Tools** · Python, C++, PyTorch, NumPy, SciPy, OpenCV, Hugging Face, and ONNX Runtime.
+### What I can do
 
-I graduated from ENSEIRB-MATMECA (Bordeaux INP) in signal and image processing. Based in Paris, France. Open to ML engineering opportunities across Europe, the United States, Morocco and the Middle East.
+- **Train and evaluate models.** Prepare datasets, split related samples by family, train PyTorch models, and compare them with baselines. Report metrics and inspect failure cases.
+- **Build computer vision pipelines.** Implement industrial anomaly detection, segmentation and keypoint localization. Measure image and pixel performance on MVTec AD and test robustness to occlusion on synthetic scenes.
+- **Process signals and model physical systems.** Estimate material spectra and fractions with constrained optimization and nonnegative matrix factorization. Generate simulated data for optical design and train surrogate models for vibration response.
+- **Run inference in Python and C++.** Export models to ONNX, check numerical agreement across runtimes, measure CPU latency and package inference in a tested Docker API.
+- **Adapt language models.** Experiment with Transformers and Hugging Face for supervised fine-tuning (SFT), reward modeling and preference optimization (DPO, GRPO).
+
+**Engineering degree in Signal & Image Processing** · ENSEIRB-MATMECA, Bordeaux INP  
+**Paris, France** · Open to ML engineering roles in Europe, the United States, Morocco and the Middle East.
